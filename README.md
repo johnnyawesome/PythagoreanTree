@@ -1,5 +1,5 @@
 # PythagoreanTree
-A PythagoreanTree written in P5JS
+A [PythagoreanTree](https://en.wikipedia.org/wiki/Pythagoras_tree_(fractal)) written in P5JS
 
 ## Interactive
 
